@@ -1,0 +1,24 @@
+{
+  "steps": 30,
+  "feature": "normalised_price_path",
+  "dtype_X": "float32",
+  "dtype_y": "int64",
+  "files": {
+    "X_train": "X_train.pt",
+    "y_train": "y_train.pt",
+    "X_val": "X_val.pt",
+    "y_val": "y_val.pt",
+    "X_test": "X_test.pt",
+    "y_test": "y_test.pt"
+  },
+  "sizes": {
+    "train": 1082,
+    "val": 134,
+    "test": 138
+  },
+  "class_mapping": {
+    "0": "fake_monte_carlo",
+    "1": "real_sampled"
+  },
+  "seed": 123
+}
