@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-coingecko_topN_365d_daily_closes.py
+pull_crypto_data.py
 - Works in Spyder (no asyncio).
 - Downloads LAST 365 DAYS of DAILY USD prices (close) for top N coins.
 - Saves one CSV per coin in ./data and a manifest at ./data/_manifest.csv.
 
 Examples (Anaconda Prompt):
-  python coingecko_topN_365d_daily_closes.py --limit 1000 --workers 8 --rpm 60
-  python coingecko_topN_365d_daily_closes.py --limit 200 --overwrite --save-vol
+  python pull_crypto_data.py --limit 1000 --workers 8 --rpm 60
+  python pull_crypto_data.py --limit 200 --overwrite --save-vol
 
 Optional env:
   COINGECKO_API_KEY  -> sent as 'x-cg-demo-api-key'
