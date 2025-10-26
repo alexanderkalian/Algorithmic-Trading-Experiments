@@ -1,0 +1,1001 @@
+rank,id,symbol,name,filepath,rows,status,error
+1,bitcoin,btc,Bitcoin,data\0001_bitcoin_usd_prices_365d.csv,366,ok,
+2,ethereum,eth,Ethereum,data\0002_ethereum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+10,tron,trx,TRON,data\0010_tron_usd_prices_365d.csv,366,ok,
+3,tether,usdt,Tether,data\0003_tether_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+11,cardano,ada,Cardano,data\0011_cardano_usd_prices_365d.csv,366,ok,
+4,ripple,xrp,XRP,data\0004_ripple_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+12,wrapped-steth,wsteth,Wrapped stETH,data\0012_wrapped-steth_usd_prices_365d.csv,366,ok,
+5,binancecoin,bnb,BNB,data\0005_binancecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+13,wrapped-bitcoin,wbtc,Wrapped Bitcoin,data\0013_wrapped-bitcoin_usd_prices_365d.csv,366,ok,
+6,solana,sol,Solana,data\0006_solana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+14,wrapped-beacon-eth,wbeth,Wrapped Beacon ETH,data\0014_wrapped-beacon-eth_usd_prices_365d.csv,366,ok,
+7,usd-coin,usdc,USDC,data\0007_usd-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+8,staked-ether,steth,Lido Staked Ether,data\0008_staked-ether_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+9,dogecoin,doge,Dogecoin,data\0009_dogecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+15,figure-heloc,figr_heloc,Figure Heloc,data\0015_figure-heloc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+23,usds,usds,USDS,data\0023_usds_usd_prices_365d.csv,366,ok,
+16,hyperliquid,hype,Hyperliquid,data\0016_hyperliquid_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+24,binance-bridged-usdt-bnb-smart-chain,bsc-usd,Binance Bridged USDT (BNB Smart Chain),data\0024_binance-bridged-usdt-bnb-smart-chain_usd_prices_365d.csv,366,ok,
+17,chainlink,link,Chainlink,data\0017_chainlink_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+25,weth,weth,WETH,data\0025_weth_usd_prices_365d.csv,366,ok,
+18,bitcoin-cash,bch,Bitcoin Cash,data\0018_bitcoin-cash_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+26,avalanche-2,avax,Avalanche,data\0026_avalanche-2_usd_prices_365d.csv,366,ok,
+19,wrapped-eeth,weeth,Wrapped eETH,data\0019_wrapped-eeth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+27,leo-token,leo,LEO Token,data\0027_leo-token_usd_prices_365d.csv,366,ok,
+20,stellar,xlm,Stellar,data\0020_stellar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+21,ethena-usde,usde,Ethena USDe,data\0021_ethena-usde_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+22,sui,sui,Sui,data\0022_sui_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+28,coinbase-wrapped-btc,cbbtc,Coinbase Wrapped BTC,data\0028_coinbase-wrapped-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+36,mantle,mnt,Mantle,data\0036_mantle_usd_prices_365d.csv,366,ok,
+29,litecoin,ltc,Litecoin,data\0029_litecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+37,the-open-network,ton,Toncoin,data\0037_the-open-network_usd_prices_365d.csv,366,ok,
+30,hedera-hashgraph,hbar,Hedera,data\0030_hedera-hashgraph_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+38,crypto-com-chain,cro,Cronos,data\0038_crypto-com-chain_usd_prices_365d.csv,366,ok,
+31,usdt0,usdt0,USDT0,data\0031_usdt0_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+39,ethena-staked-usde,susde,Ethena Staked USDe,data\0039_ethena-staked-usde_usd_prices_365d.csv,366,ok,
+32,monero,xmr,Monero,data\0032_monero_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+33,whitebit,wbt,WhiteBIT Coin,data\0033_whitebit_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+34,shiba-inu,shib,Shiba Inu,data\0034_shiba-inu_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+35,zcash,zec,Zcash,data\0035_zcash_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+40,polkadot,dot,Polkadot,data\0040_polkadot_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+48,okb,okb,OKB,data\0048_okb_usd_prices_365d.csv,366,ok,
+41,dai,dai,Dai,data\0041_dai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+49,susds,susds,sUSDS,data\0049_susds_usd_prices_365d.csv,319,ok,
+42,world-liberty-financial,wlfi,World Liberty Financial,data\0042_world-liberty-financial_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+50,bitget-token,bgb,Bitget Token,data\0050_bitget-token_usd_prices_365d.csv,366,ok,
+43,bittensor,tao,Bittensor,data\0043_bittensor_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+51,pepe,pepe,Pepe,data\0051_pepe_usd_prices_365d.csv,366,ok,
+52,near,near,NEAR Protocol,data\0052_near_usd_prices_365d.csv,366,ok,
+44,uniswap,uni,Uniswap,data\0044_uniswap_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+45,memecore,m,MemeCore,data\0045_memecore_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+46,aave,aave,Aave,data\0046_aave_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+47,ethena,ena,Ethena,data\0047_ethena_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+53,usd1-wlfi,usd1,USD1,data\0053_usd1-wlfi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+61,ondo-finance,ondo,Ondo,data\0061_ondo-finance_usd_prices_365d.csv,366,ok,
+54,blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,data\0054_blackrock-usd-institutional-digital-liquidity-fund_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+62,aster-2,aster,Aster,data\0062_aster-2_usd_prices_365d.csv,39,ok,
+55,jito-staked-sol,jitosol,Jito Staked SOL,data\0055_jito-staked-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+63,jupiter-perpetuals-liquidity-provider-token,jlp,Jupiter Perpetuals Liquidity Provider Token,data\0063_jupiter-perpetuals-liquidity-provider-token_usd_prices_365d.csv,366,ok,
+56,paypal-usd,pyusd,PayPal USD,data\0056_paypal-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+64,falcon-finance,usdf,Falcon USD,data\0064_falcon-finance_usd_prices_365d.csv,247,ok,
+57,wrapped-solana,sol,Wrapped SOL,data\0057_wrapped-solana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+58,ethereum-classic,etc,Ethereum Classic,data\0058_ethereum-classic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+59,aptos,apt,Aptos,data\0059_aptos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+60,binance-peg-weth,weth,Binance-Peg WETH,data\0060_binance-peg-weth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+65,tether-gold,xaut,Tether Gold,data\0065_tether-gold_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+73,pi-network,pi,Pi Network,data\0073_pi-network_usd_prices_365d.csv,250,ok,
+66,polygon-ecosystem-token,pol,POL (ex-MATIC),data\0066_polygon-ecosystem-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+74,internet-computer,icp,Internet Computer,data\0074_internet-computer_usd_prices_365d.csv,366,ok,
+67,worldcoin-wld,wld,Worldcoin,data\0067_worldcoin-wld_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+75,kinetic-staked-hype,khype,Kinetiq Staked HYPE,data\0075_kinetic-staked-hype_usd_prices_365d.csv,104,ok,
+68,usdtb,usdtb,USDtb,data\0068_usdtb_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+76,binance-staked-sol,bnsol,Binance Staked SOL,data\0076_binance-staked-sol_usd_prices_365d.csv,366,ok,
+69,gatechain-token,gt,Gate,data\0069_gatechain-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+77,htx-dao,htx,HTX DAO,data\0077_htx-dao_usd_prices_365d.csv,366,ok,
+70,rocket-pool-eth,reth,Rocket Pool ETH,data\0070_rocket-pool-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+78,story-2,ip,Story,data\0078_story-2_usd_prices_365d.csv,257,ok,
+71,arbitrum,arb,Arbitrum,data\0071_arbitrum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+72,kucoin-shares,kcs,KuCoin,data\0072_kucoin-shares_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+79,hash-2,hash,Provenance Blockchain,data\0079_hash-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+87,wbnb,wbnb,Wrapped BNB,data\0087_wbnb_usd_prices_365d.csv,366,ok,
+80,algorand,algo,Algorand,data\0080_algorand_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+88,liquid-staked-ethereum,lseth,Liquid Staked ETH,data\0088_liquid-staked-ethereum_usd_prices_365d.csv,366,ok,
+81,pump-fun,pump,Pump.fun,data\0081_pump-fun_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+89,sky,sky,Sky,data\0089_sky_usd_prices_365d.csv,366,ok,
+82,kelp-dao-restaked-eth,rseth,Kelp DAO Restaked ETH,data\0082_kelp-dao-restaked-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+83,kaspa,kas,Kaspa,data\0083_kaspa_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+84,stakewise-v3-oseth,oseth,StakeWise Staked ETH,data\0084_stakewise-v3-oseth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+85,cosmos,atom,Cosmos Hub,data\0085_cosmos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+86,vechain,vet,VeChain,data\0086_vechain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+90,pudgy-penguins,pengu,Pudgy Penguins,data\0090_pudgy-penguins_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+98,renzo-restaked-eth,ezeth,Renzo Restaked ETH,data\0098_renzo-restaked-eth_usd_prices_365d.csv,366,ok,
+91,pax-gold,paxg,PAX Gold,data\0091_pax-gold_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+99,sei-network,sei,Sei,data\0099_sei-network_usd_prices_365d.csv,366,ok,
+92,jupiter-exchange-solana,jup,Jupiter,data\0092_jupiter-exchange-solana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+100,official-trump,trump,Official Trump,data\0100_official-trump_usd_prices_365d.csv,283,ok,
+93,lombard-staked-btc,lbtc,Lombard Staked BTC,data\0093_lombard-staked-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+101,quant-network,qnt,Quant,data\0101_quant-network_usd_prices_365d.csv,366,ok,
+94,flare-networks,flr,Flare,data\0094_flare-networks_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+102,chainopera-ai,coai,ChainOpera AI,data\0102_chainopera-ai_usd_prices_365d.csv,33,ok,
+95,bfusd,bfusd,BFUSD,data\0095_bfusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+96,syrupusdc,syrupusdc,Syrup USDC,data\0096_syrupusdc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+97,render-token,render,Render,data\0097_render-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+103,bonk,bonk,Bonk,data\0103_bonk_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+111,syrupusdt,syrupusdt,syrupUSDT,data\0111_syrupusdt_usd_prices_365d.csv,29,ok,
+104,filecoin,fil,Filecoin,data\0104_filecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+112,spx6900,spx,SPX6900,data\0112_spx6900_usd_prices_365d.csv,366,ok,
+105,nexo,nexo,NEXO,data\0105_nexo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+113,mantle-staked-ether,meth,Mantle Staked Ether,data\0113_mantle-staked-ether_usd_prices_365d.csv,366,ok,
+106,solv-btc,solvbtc,Solv Protocol BTC,data\0106_solv-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+114,first-digital-usd,fdusd,First Digital USD,data\0114_first-digital-usd_usd_prices_365d.csv,366,ok,
+107,binance-bridged-usdc-bnb-smart-chain,usdc,Binance Bridged USDC (BNB Smart Chain),data\0107_binance-bridged-usdc-bnb-smart-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+115,jupiter-staked-sol,jupsol,Jupiter Staked SOL,data\0115_jupiter-staked-sol_usd_prices_365d.csv,366,ok,
+108,xdce-crowd-sale,xdc,XDC Network,data\0108_xdce-crowd-sale_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+109,immutable-x,imx,Immutable,data\0109_immutable-x_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+110,morpho,morpho,Morpho,data\0110_morpho_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+116,global-dollar,usdg,Global Dollar,data\0116_global-dollar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+124,clbtc,clbtc,clBTC,data\0124_clbtc_usd_prices_365d.csv,265,ok,
+117,pancakeswap-token,cake,PancakeSwap,data\0117_pancakeswap-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+125,lido-dao,ldo,Lido DAO,data\0125_lido-dao_usd_prices_365d.csv,366,ok,
+118,arbitrum-bridged-wbtc-arbitrum-one,wbtc,Arbitrum Bridged WBTC (Arbitrum One),data\0118_arbitrum-bridged-wbtc-arbitrum-one_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+126,aerodrome-finance,aero,Aerodrome Finance,data\0126_aerodrome-finance_usd_prices_365d.csv,366,ok,
+119,ripple-usd,rlusd,Ripple USD,data\0119_ripple-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+127,blockstack,stx,Stacks,data\0127_blockstack_usd_prices_365d.csv,366,ok,
+120,celestia,tia,Celestia,data\0120_celestia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+121,optimism,op,Optimism,data\0121_optimism_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+122,doublezero,2z,DoubleZero,data\0122_doublezero_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+123,injective-protocol,inj,Injective,data\0123_injective-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+128,fasttoken,ftn,Fasttoken,data\0128_fasttoken_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+136,fetch-ai,fet,Artificial Superintelligence Alliance,data\0136_fetch-ai_usd_prices_365d.csv,366,ok,
+129,msol,msol,Marinade Staked SOL,data\0129_msol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+137,floki,floki,FLOKI,data\0137_floki_usd_prices_365d.csv,366,ok,
+130,virtual-protocol,virtual,Virtuals Protocol,data\0130_virtual-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+138,ether-fi-liquid-eth,liquideth,Ether.Fi Liquid ETH,data\0138_ether-fi-liquid-eth_usd_prices_365d.csv,6,ok,
+131,curve-dao-token,crv,Curve DAO,data\0131_curve-dao-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+139,l2-standard-bridged-weth-base,weth,L2 Standard Bridged WETH (Base),data\0139_l2-standard-bridged-weth-base_usd_prices_365d.csv,366,ok,
+132,ousg,ousg,OUSG,data\0132_ousg_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+140,the-graph,grt,The Graph,data\0140_the-graph_usd_prices_365d.csv,366,ok,
+133,hashnote-usyc,usyc,Circle USYC,data\0133_hashnote-usyc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+134,superstate-short-duration-us-government-securities-fund-ustb,ustb,Superstate Short Duration U.S. Government Securities Fund (USTB),data\0134_superstate-short-duration-us-government-securities-fund-ustb_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+135,plasma,xpl,Plasma,data\0135_plasma_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+141,usdx-money-usdx,usdx,Stables Labs USDX,data\0141_usdx-money-usdx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+149,gteth,gteth,GTETH,data\0149_gteth_usd_prices_365d.csv,40,ok,
+142,ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,data\0142_ondo-us-dollar-yield_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+150,dash,dash,Dash,data\0150_dash_usd_prices_365d.csv,366,ok,
+143,pyth-network,pyth,Pyth Network,data\0143_pyth-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+151,arbitrum-bridged-weth-arbitrum-one,weth,Arbitrum Bridged WETH (Arbitrum One),data\0151_arbitrum-bridged-weth-arbitrum-one_usd_prices_365d.csv,366,ok,
+144,tbtc,tbtc,tBTC,data\0144_tbtc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+145,sonic-3,s,Sonic,data\0145_sonic-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+146,tezos,xtz,Tezos,data\0146_tezos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+147,kaia,kaia,Kaia,data\0147_kaia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+148,stader-ethx,ethx,Stader ETHx,data\0148_stader-ethx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+152,humanity,h,Humanity,data\0152_humanity_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+160,pendle,pendle,Pendle,data\0160_pendle_usd_prices_365d.csv,366,ok,
+161,theta-token,theta,Theta Network,data\0161_theta-token_usd_prices_365d.csv,366,ok,
+153,iota,iota,IOTA,data\0153_iota_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+162,dogwifcoin,wif,dogwifhat,data\0162_dogwifcoin_usd_prices_365d.csv,366,ok,
+154,ether-fi,ethfi,Ether.fi,data\0154_ether-fi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+163,coinbase-wrapped-staked-eth,cbeth,Coinbase Wrapped Staked ETH,data\0163_coinbase-wrapped-staked-eth_usd_prices_365d.csv,366,ok,
+155,beldex,bdx,Beldex,data\0155_beldex_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+164,polygon-pos-bridged-dai-polygon-pos,dai,Polygon PoS Bridged DAI (Polygon POS),data\0164_polygon-pos-bridged-dai-polygon-pos_usd_prices_365d.csv,366,ok,
+156,usdai,usdai,USDai,data\0156_usdai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+157,conflux-token,cfx,Conflux,data\0157_conflux-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+158,newton-project,ab,AB,data\0158_newton-project_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+159,myx-finance,myx,MYX Finance,data\0159_myx-finance_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+165,usual-usd,usd0,Usual USD,data\0165_usual-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+173,jasmycoin,jasmy,JasmyCoin,data\0173_jasmycoin_usd_prices_365d.csv,366,ok,
+166,bridged-usdc-polygon-pos-bridge,usdc.e,Polygon Bridged USDC (Polygon PoS),data\0166_bridged-usdc-polygon-pos-bridge_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+174,trust-wallet-token,twt,Trust Wallet,data\0174_trust-wallet-token_usd_prices_365d.csv,366,ok,
+167,sweth,sweth,Swell Ethereum,data\0167_sweth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+175,binance-peg-dogecoin,doge,Binance-Peg Dogecoin,data\0175_binance-peg-dogecoin_usd_prices_365d.csv,366,ok,
+168,starknet,strk,Starknet,data\0168_starknet_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+176,bittorrent,btt,BitTorrent,data\0176_bittorrent_usd_prices_365d.csv,366,ok,
+169,ethereum-name-service,ens,Ethereum Name Service,data\0169_ethereum-name-service_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+177,mantle-bridged-usdt-mantle,usdt,Mantle Bridged USDT (Mantle),data\0177_mantle-bridged-usdt-mantle_usd_prices_365d.csv,366,ok,
+170,the-sandbox,sand,The Sandbox,data\0170_the-sandbox_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+171,gala,gala,GALA,data\0171_gala_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+172,bitcoin-avalanche-bridged-btc-b,btc.b,Avalanche Bridged BTC (Avalanche),data\0172_bitcoin-avalanche-bridged-btc-b_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+178,raydium,ray,Raydium,data\0178_raydium_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+186,bitcoin-cash-sv,bsv,Bitcoin SV,data\0186_bitcoin-cash-sv_usd_prices_365d.csv,366,ok,
+179,true-usd,tusd,TrueUSD,data\0179_true-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+187,astherus-staked-bnb,asbnb,Aster Staked BNB,data\0187_astherus-staked-bnb_usd_prices_365d.csv,248,ok,
+180,benqi-liquid-staked-avax,savax,BENQI Liquid Staked AVAX,data\0180_benqi-liquid-staked-avax_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+188,ether-fi-staked-eth,eeth,ether.fi Staked ETH,data\0188_ether-fi-staked-eth_usd_prices_365d.csv,366,ok,
+181,steakhouse-usdc-morpho-vault,steakusdc,Steakhouse USDC Morpho Vault,data\0181_steakhouse-usdc-morpho-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+189,wrapped-hype,whype,Wrapped HYPE,data\0189_wrapped-hype_usd_prices_365d.csv,249,ok,
+182,swissborg,borg,SwissBorg,data\0182_swissborg_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+183,arbitrum-bridged-wrapped-eeth,weeth,Arbitrum Bridged Wrapped eETH (Arbitrum),data\0183_arbitrum-bridged-wrapped-eeth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+184,vaulta,a,Vaulta,data\0184_vaulta_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+185,decentraland,mana,Decentraland,data\0185_decentraland_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+190,usdd,usdd,USDD,data\0190_usdd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+198,aethir,ath,Aethir,data\0198_aethir_usd_prices_365d.csv,366,ok,
+191,mantle-restaked-eth,cmeth,Mantle Restaked ETH,data\0191_mantle-restaked-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+199,kinetiq-earn-vault,vkhype,Kinetiq Earn Vault,data\0199_kinetiq-earn-vault_usd_prices_365d.csv,35,ok,
+192,jito-governance-token,jto,Jito,data\0192_jito-governance-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+200,sun-token,sun,Sun Token,data\0200_sun-token_usd_prices_365d.csv,366,ok,
+193,flow,flow,Flow,data\0193_flow_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+201,havven,snx,Synthetix,data\0201_havven_usd_prices_365d.csv,366,ok,
+194,eigenlayer,eigen,EigenCloud (prev. EigenLayer),data\0194_eigenlayer_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+202,satoshi-stablecoin,satusd,Satoshi Stablecoin,data\0202_satoshi-stablecoin_usd_prices_365d.csv,366,ok,
+195,syrup,syrup,Maple Finance,data\0195_syrup_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+196,falcon-finance-ff,ff,Falcon Finance,data\0196_falcon-finance-ff_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+197,polygon-pos-bridged-weth-polygon-pos,weth,Polygon PoS Bridged WETH (Polygon POS),data\0197_polygon-pos-bridged-weth-polygon-pos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+203,frax-ether,frxeth,Frax Ether,data\0203_frax-ether_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+211,vision-3,vsn,Vision,data\0211_vision-3_usd_prices_365d.csv,104,ok,
+204,merlin-chain,merl,Merlin Chain,data\0204_merlin-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+212,ai-companions,aic,AI Companions,data\0212_ai-companions_usd_prices_365d.csv,366,ok,
+205,zora,zora,Zora,data\0205_zora_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+213,helium,hnt,Helium,data\0213_helium_usd_prices_365d.csv,366,ok,
+206,fartcoin,fartcoin,Fartcoin,data\0206_fartcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+207,gho,gho,GHO,data\0207_gho_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+208,usdb,usdb,USDB,data\0208_usdb_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+209,apecoin,ape,ApeCoin,data\0209_apecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+210,apenft,nft,AINFT,data\0210_apenft_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+214,zebec-network,zbcn,Zebec Network,data\0214_zebec-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+222,compound-governance-token,comp,Compound,data\0222_compound-governance-token_usd_prices_365d.csv,366,ok,
+215,dexe,dexe,DeXe,data\0215_dexe_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+223,olympus,ohm,Olympus,data\0223_olympus_usd_prices_365d.csv,366,ok,
+216,origintrail,trac,OriginTrail,data\0216_origintrail_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+224,eutbl,eutbl,Spiko EU T-Bills Money Market Fund,data\0224_eutbl_usd_prices_365d.csv,366,ok,
+217,ethena-staked-ena,sena,Ethena Staked ENA,data\0217_ethena-staked-ena_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+225,savings-dai,sdai,Savings Dai,data\0225_savings-dai_usd_prices_365d.csv,366,ok,
+218,zero-gravity,0g,0G,data\0218_zero-gravity_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+226,unit-bitcoin,ubtc,Unit Bitcoin,data\0226_unit-bitcoin_usd_prices_365d.csv,209,ok,
+219,ape-and-pepe,apepe,Ape and Pepe,data\0219_ape-and-pepe_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+220,telcoin,tel,Telcoin,data\0220_telcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+221,walrus-2,wal,Walrus,data\0221_walrus-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+227,neo,neo,NEO,data\0227_neo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+235,ribbita-by-virtuals,tibbir,Ribbita by Virtuals,data\0235_ribbita-by-virtuals_usd_prices_365d.csv,217,ok,
+228,reserve-protocol-eth-plus,eth+,ETHPlus,data\0228_reserve-protocol-eth-plus_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+236,loaded-lions,lion,Loaded Lions,data\0236_loaded-lions_usd_prices_365d.csv,239,ok,
+229,instadapp,fluid,Fluid,data\0229_instadapp_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+237,drift-staked-sol,dsol,Drift Staked SOL,data\0237_drift-staked-sol_usd_prices_365d.csv,366,ok,
+230,treehouse-eth,teth,Treehouse ETH,data\0230_treehouse-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+238,bybit-staked-sol,bbsol,Bybit Staked SOL,data\0238_bybit-staked-sol_usd_prices_365d.csv,366,ok,
+231,gnosis,gno,Gnosis,data\0231_gnosis_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+239,reserve-rights-token,rsr,Reserve Rights,data\0239_reserve-rights-token_usd_prices_365d.csv,366,ok,
+232,wormhole,w,Wormhole,data\0232_wormhole_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+233,axycoin,axyc,AxyCoin,data\0233_axycoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+234,reservoir-srusd,srusd,Reservoir srUSD,data\0234_reservoir-srusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+240,atomone,atone,AtomOne,data\0240_atomone_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+248,chain-2,xcn,Onyxcoin,data\0248_chain-2_usd_prices_365d.csv,366,ok,
+241,chiliz,chz,Chiliz,data\0241_chiliz_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+249,solv-protocol-solvbtc-bbn,xsolvbtc,Solv Protocol Staked BTC,data\0249_solv-protocol-solvbtc-bbn_usd_prices_365d.csv,366,ok,
+242,wemix-token,wemix,WEMIX,data\0242_wemix-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+250,cgeth-hashkey-cloud,cgeth.hashkey,cgETH Hashkey Cloud,data\0250_cgeth-hashkey-cloud_usd_prices_365d.csv,267,ok,
+243,just,jst,JUST,data\0243_just_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+251,ecash,xec,eCash,data\0251_ecash_usd_prices_365d.csv,366,ok,
+244,wrapped-ether-mantle-bridge,weth,Mantle Bridged WETH (Mantle),data\0244_wrapped-ether-mantle-bridge_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+245,thorchain,rune,THORChain,data\0245_thorchain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+246,wrapped-avax,wavax,Wrapped AVAX,data\0246_wrapped-avax_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+247,toshi,toshi,Toshi,data\0247_toshi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+252,useless-3,useless,Useless Coin,data\0252_useless-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+260,based-brett,brett,Brett,data\0260_based-brett_usd_prices_365d.csv,366,ok,
+253,binance-peg-busd,busd,Binance-Peg BUSD,data\0253_binance-peg-busd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+261,frax,frax,Legacy Frax Dollar,data\0261_frax_usd_prices_365d.csv,366,ok,
+254,staked-frax-ether,sfrxeth,Staked Frax Ether,data\0254_staked-frax-ether_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+262,elrond-erd-2,egld,MultiversX,data\0262_elrond-erd-2_usd_prices_365d.csv,366,ok,
+255,four,form,Four,data\0255_four_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+263,polygon-bridged-wbtc-polygon-pos,wbtc,Polygon Bridged WBTC (Polygon POS),data\0263_polygon-bridged-wbtc-polygon-pos_usd_prices_365d.csv,366,ok,
+256,ark-3,ark,ARK,data\0256_ark-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+264,cheems-token,cheems,Cheems Token,data\0264_cheems-token_usd_prices_365d.csv,366,ok,
+257,cognify,sn115,Cognify,data\0257_cognify_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+258,decred,dcr,Decred,data\0258_decred_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+259,cap-usd,cusd,Cap USD,data\0259_cap-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+265,euro-coin,eurc,EURC,data\0265_euro-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+273,axie-infinity,axs,Axie Infinity,data\0273_axie-infinity_usd_prices_365d.csv,366,ok,
+266,staked-stream-usd,xusd,Staked Stream USD,data\0266_staked-stream-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+274,midas-mhyper,mhyper,Midas mHYPER,data\0274_midas-mhyper_usd_prices_365d.csv,46,ok,
+267,resolv-usr,usr,Resolv USR,data\0267_resolv-usr_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+275,saros-finance,saros,Saros,data\0275_saros-finance_usd_prices_365d.csv,366,ok,
+268,dydx-chain,dydx,dYdX,data\0268_dydx-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+269,sui-bridged-usdt-sui,sbusdt,Sui Bridged USDT (Sui),data\0269_sui-bridged-usdt-sui_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+270,kaito,kaito,KAITO,data\0270_kaito_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+271,beam-2,beam,Beam,data\0271_beam-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+272,crvusd,crvusd,crvUSD,data\0272_crvusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+276,bianrensheng,币安人生,币安人生 (BinanceLife),data\0276_bianrensheng_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+284,reallink,real,RealLink,data\0284_reallink_usd_prices_365d.csv,343,ok,
+285,superfarm,super,SuperVerse,data\0285_superfarm_usd_prices_365d.csv,366,ok,
+277,concordium,ccd,Concordium,data\0277_concordium_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+286,arweave,ar,Arweave,data\0286_arweave_usd_prices_365d.csv,366,ok,
+278,ibc-bridged-usdc,usdc.n,Noble USDC,data\0278_ibc-bridged-usdc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+287,1inch,1inch,1INCH,data\0287_1inch_usd_prices_365d.csv,366,ok,
+279,usdx-money-staked-usdx,susdx,Stables Labs Staked USDX,data\0279_usdx-money-staked-usdx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+288,akash-network,akt,Akash Network,data\0288_akash-network_usd_prices_365d.csv,366,ok,
+280,ronin,ron,Ronin,data\0280_ronin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+281,basic-attention-token,bat,Basic Attention,data\0281_basic-attention-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+282,compound-wrapped-btc,cwbtc,cWBTC,data\0282_compound-wrapped-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+283,terra-luna,lunc,Terra Luna Classic,data\0283_terra-luna_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+289,meteora,met,Meteora,data\0289_meteora_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+297,blockchain-capital,bcap,Blockchain Capital,data\0297_blockchain-capital_usd_prices_365d.csv,152,ok,
+290,aioz-network,aioz,AIOZ Network,data\0290_aioz-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+298,livepeer,lpt,Livepeer,data\0298_livepeer_usd_prices_365d.csv,366,ok,
+291,berachain-bera,bera,Berachain,data\0291_berachain-bera_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+299,resolv-wstusr,wstusr,Resolv wstUSR,data\0299_resolv-wstusr_usd_prices_365d.csv,187,ok,
+292,zencash,zen,Horizen,data\0292_zencash_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+300,creditcoin-2,ctc,Creditcoin,data\0300_creditcoin-2_usd_prices_365d.csv,366,ok,
+293,undeads-games,uds,Undeads Games,data\0293_undeads-games_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+301,keeta,kta,Keeta,data\0301_keeta_usd_prices_365d.csv,236,ok,
+294,linea,linea,Linea,data\0294_linea_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+295,zksync,zk,ZKsync,data\0295_zksync_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+296,coredaoorg,core,Core,data\0296_coredaoorg_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+302,plume,plume,Plume,data\0302_plume_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+310,binance-peg-sol,sol,Binance-Peg SOL,data\0310_binance-peg-sol_usd_prices_365d.csv,244,ok,
+303,fidelity-digital-interest-token,fdit,Fidelity Digital Interest Token,data\0303_fidelity-digital-interest-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+311,origin-ether,oeth,Origin Ether,data\0311_origin-ether_usd_prices_365d.csv,366,ok,
+304,mx-token,mx,MX,data\0304_mx-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+312,slash-vision-labs,svl,Slash Vision Labs,data\0312_slash-vision-labs_usd_prices_365d.csv,366,ok,
+305,meta-2-2,meta,MetaDAO,data\0305_meta-2-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+313,sosovalue,soso,SoSoValue,data\0313_sosovalue_usd_prices_365d.csv,277,ok,
+306,openeden-open-dollar,usdo,OpenEden OpenDollar,data\0306_openeden-open-dollar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+307,usda-2,usda,USDa,data\0307_usda-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+308,deep,deep,DeepBook,data\0308_deep_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+309,mocaverse,moca,Moca Network,data\0309_mocaverse_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+314,qtum,qtum,Qtum,data\0314_qtum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+322,snek,snek,Snek,data\0322_snek_usd_prices_365d.csv,366,ok,
+315,astherus-usdf,usdf,Aster USDF,data\0315_astherus-usdf_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+323,polygon-bridged-weeth-katana,weeth,Polygon Bridged weETH (Katana),data\0323_polygon-bridged-weeth-katana_usd_prices_365d.csv,28,ok,
+316,universal-btc,unibtc,Universal BTC,data\0316_universal-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+324,axelar,axl,Axelar,data\0324_axelar_usd_prices_365d.csv,366,ok,
+317,usx,usx,USX,data\0317_usx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+325,avantis,avnt,Avantis,data\0325_avantis_usd_prices_365d.csv,49,ok,
+318,amp-token,amp,Amp,data\0318_amp-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+326,midas-msyrupusdp,msyrupusdp,Midas msyrupUSDp,data\0326_midas-msyrupusdp_usd_prices_365d.csv,40,ok,
+319,venom,venom,Venom,data\0319_venom_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+320,movement,move,Movement,data\0320_movement_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+321,standx-dusd,dusd,StandX DUSD,data\0321_standx-dusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+327,compounding-open-dollar,cusdo,Compounding OpenDollar,data\0327_compounding-open-dollar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+335,giggle-fund,giggle,Giggle Fund,data\0335_giggle-fund_usd_prices_365d.csv,36,ok,
+328,safepal,sfp,SafePal,data\0328_safepal_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+336,arkham,arkm,Arkham,data\0336_arkham_usd_prices_365d.csv,366,ok,
+329,kamino,kmno,Kamino,data\0329_kamino_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+337,nxm,nxm,Nexus Mutual,data\0337_nxm_usd_prices_365d.csv,366,ok,
+330,layerzero,zro,LayerZero,data\0330_layerzero_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+331,legacy-token,lgct,Legacy Token,data\0331_legacy-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+332,theta-fuel,tfuel,Theta Fuel,data\0332_theta-fuel_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+333,eos,eos,EOS,data\0333_eos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+334,drift-protocol,drift,Drift Protocol,data\0334_drift-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+338,soon-2,soon,SOON,data\0338_soon-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+346,golem,glm,Golem,data\0346_golem_usd_prices_365d.csv,366,ok,
+339,kinesis-gold,kau,Kinesis Gold,data\0339_kinesis-gold_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+347,rekt-4,rekt,Rekt,data\0347_rekt-4_usd_prices_365d.csv,340,ok,
+340,tradable-na-rent-financing-platform-sstn,pc0000031,Tradable NA Rent Financing Platform SSTN,data\0340_tradable-na-rent-financing-platform-sstn_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+348,phantom-staked-sol,psol,Phantom Staked SOL,data\0348_phantom-staked-sol_usd_prices_365d.csv,165,ok,
+349,dog-go-to-the-moon-rune,dog,Dog (Bitcoin),data\0349_dog-go-to-the-moon-rune_usd_prices_365d.csv,366,ok,
+341,convex-finance,cvx,Convex Finance,data\0341_convex-finance_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+342,kinesis-silver,kag,Kinesis Silver,data\0342_kinesis-silver_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+350,qubic-network,qubic,Qubic,data\0350_qubic-network_usd_prices_365d.csv,366,ok,
+343,sahara-ai,sahara,Sahara AI,data\0343_sahara-ai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+344,kusama,ksm,Kusama,data\0344_kusama_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+345,mog-coin,mog,Mog Coin,data\0345_mog-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+351,ecoreal-estate,ecoreal,Ecoreal Estate,data\0351_ecoreal-estate_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+359,gas,gas,Gas,data\0359_gas_usd_prices_365d.csv,366,ok,
+352,cronos-bridged-usdc-cronos,usdc,Cronos Bridged USDC (Cronos),data\0352_cronos-bridged-usdc-cronos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+360,prometeus,prom,Prom,data\0360_prometeus_usd_prices_365d.csv,366,ok,
+353,build-on,b,BUILDon,data\0353_build-on_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+361,tokenize-xchange,tkx,Tokenize Xchange,data\0361_tokenize-xchange_usd_prices_365d.csv,366,ok,
+354,sky-coin,xso,Sky Coin,data\0354_sky-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+362,turbo,turbo,Turbo,data\0362_turbo_usd_prices_365d.csv,366,ok,
+355,baby-doge-coin,babydoge,Baby Doge Coin,data\0355_baby-doge-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+363,zano,zano,Zano,data\0363_zano_usd_prices_365d.csv,366,ok,
+356,unibase,ub,Unibase,data\0356_unibase_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+357,super-oeth,superoeth,Super OETH,data\0357_super-oeth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+358,cat-in-a-dogs-world,mew,cat in a dogs world,data\0358_cat-in-a-dogs-world_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+364,safe,safe,Safe,data\0364_safe_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+372,ether-fi-staked-btc,ebtc,Ether.fi Staked BTC,data\0372_ether-fi-staked-btc_usd_prices_365d.csv,366,ok,
+365,succinct,prove,Succinct,data\0365_succinct_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+373,yearn-finance,yfi,yearn.finance,data\0373_yearn-finance_usd_prices_365d.csv,366,ok,
+366,0x,zrx,0x Protocol,data\0366_0x_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+374,bitmart-token,bmx,BitMart,data\0374_bitmart-token_usd_prices_365d.csv,366,ok,
+367,conscious-token,conscious,Conscious Token,data\0367_conscious-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+375,railgun,rail,Railgun,data\0375_railgun_usd_prices_365d.csv,366,ok,
+368,mashida,mshd,Mashida,data\0368_mashida_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+376,apex-token-2,apex,APEX,data\0376_apex-token-2_usd_prices_365d.csv,366,ok,
+369,midas-mf-one,mf-one,Midas mF-ONE,data\0369_midas-mf-one_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+370,gmt-token,gomining,GoMining Token,data\0370_gmt-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+371,btse-token,btse,BTSE Token,data\0371_btse-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+377,aleo,aleo,ALEO,data\0377_aleo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+385,ultima,ultima,Ultima,data\0385_ultima_usd_prices_365d.csv,366,ok,
+378,bnb48-club-token,koge,KOGE,data\0378_bnb48-club-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+386,spiko-us-t-bills-money-market-fund,ustbl,Spiko US T-Bills Money Market Fund,data\0386_spiko-us-t-bills-money-market-fund_usd_prices_365d.csv,366,ok,
+379,infinifi-usd,iusd,InfiniFi USD,data\0379_infinifi-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+387,yieldfi-ytoken,yusd,YieldFi yToken,data\0387_yieldfi-ytoken_usd_prices_365d.csv,279,ok,
+380,nervos-network,ckb,Nervos Network,data\0380_nervos-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+388,kava,kava,Kava,data\0388_kava_usd_prices_365d.csv,366,ok,
+381,bio-protocol,bio,Bio Protocol,data\0381_bio-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+389,mag7-ssi,mag7.ssi,MAG7.ssi,data\0389_mag7-ssi_usd_prices_365d.csv,310,ok,
+382,ravencoin,rvn,Ravencoin,data\0382_ravencoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+383,popcat,popcat,Popcat,data\0383_popcat_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+384,zilliqa,zil,Zilliqa,data\0384_zilliqa_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+390,crypto-com-staked-eth,cdceth,Crypto.com Staked ETH,data\0390_crypto-com-staked-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+398,stargate-finance,stg,Stargate Finance,data\0398_stargate-finance_usd_prices_365d.csv,366,ok,
+391,agentfun-ai,agentfun,AgentFun.AI,data\0391_agentfun-ai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+399,unit-pump,upump,Unit Pump,data\0399_unit-pump_usd_prices_365d.csv,105,ok,
+392,wrapped-aave-ethereum-weth,waethweth,Wrapped Aave Ethereum WETH,data\0392_wrapped-aave-ethereum-weth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+400,gusd,gusd,GUSD,data\0400_gusd_usd_prices_365d.csv,61,ok,
+393,infrared-bera,ibera,Infrared Bera,data\0393_infrared-bera_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+401,lombard-protocol,bard,Lombard,data\0401_lombard-protocol_usd_prices_365d.csv,40,ok,
+394,celo,celo,Celo,data\0394_celo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+395,metal-blockchain,metal,Metal Blockchain,data\0395_metal-blockchain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+396,stargate-bridged-weth,weth,Stargate Bridged WETH,data\0396_stargate-bridged-weth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+397,elixir-deusd,deusd,Elixir deUSD,data\0397_elixir-deusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+402,tdccp,tdccp,TDCCP,data\0402_tdccp_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+410,vvs-finance,vvs,VVS Finance,data\0410_vvs-finance_usd_prices_365d.csv,366,ok,
+403,euler,eul,Euler,data\0403_euler_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+411,susdai,susdai,Staked USDai,data\0411_susdai_usd_prices_365d.csv,125,ok,
+404,velo,velo,Velo,data\0404_velo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+412,stasis-eurs,eurs,STASIS EURO,data\0412_stasis-eurs_usd_prices_365d.csv,366,ok,
+405,stp-network,awe,AWE Network,data\0405_stp-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+413,restaking-vault-eth,rsteth,Restaking Vault ETH,data\0413_restaking-vault-eth_usd_prices_365d.csv,77,ok,
+406,astar,astr,Astar,data\0406_astar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+414,bridged-usd-coin-starkgate,usdc,StarkGate Bridged USDC (Starknet),data\0414_bridged-usd-coin-starkgate_usd_prices_365d.csv,366,ok,
+407,sui-bridged-wbtc-sui,wbtc,Sui Bridged WBTC (Sui),data\0407_sui-bridged-wbtc-sui_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+408,coinex-token,cet,CoinEx,data\0408_coinex-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+409,quantum-resistant-ledger,qrl,Quantum Resistant Ledger,data\0409_quantum-resistant-ledger_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+415,proton,xpr,XPR Network,data\0415_proton_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+423,shuffle-2,shfl,Shuffle,data\0423_shuffle-2_usd_prices_365d.csv,366,ok,
+416,unit-plasma,uxpl,Unit Plasma,data\0416_unit-plasma_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+424,avalanche-bridged-weth-avalanche,weth,Avalanche Bridged WETH (Avalanche),data\0424_avalanche-bridged-weth-avalanche_usd_prices_365d.csv,366,ok,
+417,uchain-2,ucn,UCHAIN,data\0417_uchain-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+425,agora-dollar,ausd,AUSD,data\0425_agora-dollar_usd_prices_365d.csv,366,ok,
+418,ignition-fbtc,fbtc,Function FBTC,data\0418_ignition-fbtc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+419,river,river,River,data\0419_river_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+420,peanut-the-squirrel,pnut,Peanut the Squirrel,data\0420_peanut-the-squirrel_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+421,threshold-network-token,t,Threshold Network,data\0421_threshold-network-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+422,compound-ether,ceth,cETH,data\0422_compound-ether_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+426,grass,grass,Grass,data\0426_grass_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+434,wrapped-aave-ethereum-usdc,waethusdc,Wrapped Aave Ethereum USDC,data\0434_wrapped-aave-ethereum-usdc_usd_prices_365d.csv,77,ok,
+427,blur,blur,Blur,data\0427_blur_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+435,metaplex,mplx,Metaplex,data\0435_metaplex_usd_prices_365d.csv,366,ok,
+428,mina-protocol,mina,Mina Protocol,data\0428_mina-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+436,hyperbeat-usdt,hbusdt,Hyperbeat USDT,data\0436_hyperbeat-usdt_usd_prices_365d.csv,112,ok,
+429,zetachain,zeta,ZetaChain,data\0429_zetachain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+437,mantra-dao,om,MANTRA,data\0437_mantra-dao_usd_prices_365d.csv,366,ok,
+430,tokenbot-2,clanker,tokenbot,data\0430_tokenbot-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+438,oasis-network,rose,Oasis,data\0438_oasis-network_usd_prices_365d.csv,366,ok,
+431,theo-short-duration-us-treasury-fund,thbill,Theo Short Duration US Treasury Fund,data\0431_theo-short-duration-us-treasury-fund_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+432,bitkub-coin,kub,KUB Coin,data\0432_bitkub-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+433,zignaly,zig,ZIGChain,data\0433_zignaly_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+439,apollo-diversified-credit-securitize-fund,acred,Apollo Diversified Credit Securitize Fund,data\0439_apollo-diversified-credit-securitize-fund_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+447,centrifuge-2,cfg,Centrifuge,data\0447_centrifuge-2_usd_prices_365d.csv,161,ok,
+440,frax-share,frax,Frax (prev. FXS),data\0440_frax-share_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+448,cow-protocol,cow,CoW Protocol,data\0448_cow-protocol_usd_prices_365d.csv,366,ok,
+441,xpin-network,xpin,XPIN Network,data\0441_xpin-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+449,verus-coin,vrsc,Verus,data\0449_verus-coin_usd_prices_365d.csv,366,ok,
+442,edu-coin,edu,Open Campus,data\0442_edu-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+450,rollbit-coin,rlb,Rollbit Coin,data\0450_rollbit-coin_usd_prices_365d.csv,366,ok,
+443,wefi,wfi,WeFi,data\0443_wefi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+451,anoma,xan,Anoma,data\0451_anoma_usd_prices_365d.csv,29,ok,
+444,peaq-2,peaq,peaq,data\0444_peaq-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+445,yu,yu,Yala Stablecoin,data\0445_yu_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+446,renzo-restaked-lst,pzeth,Renzo Restaked LST,data\0446_renzo-restaked-lst_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+452,aia,aia,DeAgentAI,data\0452_aia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+460,vethor-token,vtho,VeThor,data\0460_vethor-token_usd_prices_365d.csv,366,ok,
+453,moonwell-flagship-eth-morpho-vault,mweth,Moonwell Flagship ETH (Morpho Vault),data\0453_moonwell-flagship-eth-morpho-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+461,digibyte,dgb,DigiByte,data\0461_digibyte_usd_prices_365d.csv,366,ok,
+454,holotoken,hot,Holo,data\0454_holotoken_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+462,gems-vip,gems,Gems VIP,data\0462_gems-vip_usd_prices_365d.csv,366,ok,
+455,ozone-chain,ozo,Ozone Chain,data\0455_ozone-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+463,frax-usd,frxusd,Frax USD,data\0463_frax-usd_usd_prices_365d.csv,254,ok,
+456,dola-usd,dola,DOLA,data\0456_dola-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+457,stargate-bridged-usdc,usdc.e,Stargate Bridged USDC,data\0457_stargate-bridged-usdc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+458,avant-usd,avusd,Avant USD,data\0458_avant-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+459,dfdv-staked-sol,dfdvsol,DFDV Staked SOL,data\0459_dfdv-staked-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+464,4-2,4,4,data\0464_4-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+472,anzen-usdz,usdz,Anzen USDz,data\0472_anzen-usdz_usd_prices_365d.csv,366,ok,
+465,resolv-rlp,rlp,Resolv Liquidity Provider Token,data\0465_resolv-rlp_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+473,gaib-ai-dollar-alpha-usdc,aidausdc,Gaib AI Dollar Alpha USDC,data\0473_gaib-ai-dollar-alpha-usdc_usd_prices_365d.csv,28,ok,
+466,moo-deng,moodeng,Moo Deng,data\0466_moo-deng_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+474,ordinals,ordi,ORDI,data\0474_ordinals_usd_prices_365d.csv,366,ok,
+467,world-mobile-token,wmtx,World Mobile Token,data\0467_world-mobile-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+475,skale,skl,SKALE,data\0475_skale_usd_prices_365d.csv,366,ok,
+468,payfi-strategy-token-usdc,pstusdc,PayFi Strategy Token USDC,data\0468_payfi-strategy-token-usdc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+476,iotex,iotx,IoTeX,data\0476_iotex_usd_prices_365d.csv,366,ok,
+469,wrapped-aave-ethereum-usdt,waethusdt,Wrapped Aave Ethereum USDT,data\0469_wrapped-aave-ethereum-usdt_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+470,siacoin,sc,Siacoin,data\0470_siacoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+471,wrapped-savings-rusd,wsrusd,Wrapped Savings rUSD,data\0471_wrapped-savings-rusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+477,aelf,elf,aelf,data\0477_aelf_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+485,sbtc-2,sbtc,sBTC,data\0485_sbtc-2_usd_prices_365d.csv,262,ok,
+478,minidoge-5,minidoge,Minidoge,data\0478_minidoge-5_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+486,usda-3,usda,USDA,data\0486_usda-3_usd_prices_365d.csv,80,ok,
+479,casper-network,cspr,Casper Network,data\0479_casper-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+487,flare-bridged-xrp-flare,fxrp,Flare Bridged XRP (Flare),data\0487_flare-bridged-xrp-flare_usd_prices_365d.csv,26,ok,
+480,chutes,sn64,Chutes,data\0480_chutes_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+481,hashkey-ecopoints,hsk,HashKey Platform Token,data\0481_hashkey-ecopoints_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+482,subsquid,sqd,SQD,data\0482_subsquid_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+483,avant-staked-usd,savusd,Avant Staked USD,data\0483_avant-staked-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+484,verge,xvg,Verge,data\0484_verge_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+488,gmx,gmx,GMX,data\0488_gmx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+496,numeraire,nmr,Numeraire,data\0496_numeraire_usd_prices_365d.csv,366,ok,
+497,sushi,sushi,Sushi,data\0497_sushi_usd_prices_365d.csv,366,ok,
+489,f-x-protocol-fxusd,fxusd,f(x) Protocol fxUSD,data\0489_f-x-protocol-fxusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+498,uma,uma,UMA,data\0498_uma_usd_prices_365d.csv,366,ok,
+490,xyo-network,xyo,XYO Network,data\0490_xyo-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+499,lcx,lcx,LCX,data\0499_lcx_usd_prices_365d.csv,366,ok,
+491,seda-2,seda,SEDA,data\0491_seda-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+500,wrapped-centrifuge,wcfg,Wrapped Centrifuge,data\0500_wrapped-centrifuge_usd_prices_365d.csv,366,ok,
+492,ethereum-pow-iou,ethw,EthereumPoW,data\0492_ethereum-pow-iou_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+493,polymesh,polyx,Polymesh,data\0493_polymesh_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+494,non-playable-coin,npc,Non-Playable Coin,data\0494_non-playable-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+495,illuvium,ilv,Illuvium,data\0495_illuvium_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+501,pirate-chain,arrr,Pirate Chain,data\0501_pirate-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+509,vicicoin,vcnt,ViciCoin,data\0509_vicicoin_usd_prices_365d.csv,366,ok,
+502,ankr,ankr,Ankr Network,data\0502_ankr_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+510,tradable-singapore-fintech-ssl-2,pc0000023,Tradable Singapore Fintech SSL,data\0510_tradable-singapore-fintech-ssl-2_usd_prices_365d.csv,117,ok,
+503,marsmi,marsmi,MarsMi,data\0503_marsmi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+511,ring-usd,usdr,Ring USD,data\0511_ring-usd_usd_prices_365d.csv,11,ok,
+504,onyc,onyc,Onchain Yield Coin,data\0504_onyc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+512,redstone-oracles,red,RedStone,data\0512_redstone-oracles_usd_prices_365d.csv,236,ok,
+505,entangle,ntgl,Entangle,data\0505_entangle_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+513,qusdt,qusdt,QL1 Bridged USDT (QL1),data\0513_qusdt_usd_prices_365d.csv,299,ok,
+506,bitlight,light,Bitlight,data\0506_bitlight_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+507,vaultbridge-bridged-wbtc-katana,vbwbtc,VaultBridge Bridged WBTC (Katana),data\0507_vaultbridge-bridged-wbtc-katana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+508,savings-xdai,sdai,Savings xDAI,data\0508_savings-xdai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+514,chia,xch,Chia,data\0514_chia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+522,kraken-wrapped-btc,kbtc,Kraken Wrapped BTC,data\0522_kraken-wrapped-btc_usd_prices_365d.csv,217,ok,
+515,icon,icx,ICON,data\0515_icon_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+523,syndicate-3,synd,Syndicate,data\0523_syndicate-3_usd_prices_365d.csv,40,ok,
+516,harmony,one,Harmony,data\0516_harmony_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+524,vaultbridge-bridged-eth-katana,vbeth,VaultBridge Bridged ETH (Katana),data\0524_vaultbridge-bridged-eth-katana_usd_prices_365d.csv,116,ok,
+517,fx-usd-saving,fxsave,f(x) USD Saving,data\0517_fx-usd-saving_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+525,bc-token,bc,BCGame Coin,data\0525_bc-token_usd_prices_365d.csv,301,ok,
+518,bridged-wrapped-ether-starkgate,eth,Bridged Ether (StarkGate),data\0518_bridged-wrapped-ether-starkgate_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+519,debridge,dbr,deBridge,data\0519_debridge_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+520,omni-network,omni,Omni Network [Old],data\0520_omni-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+521,memecoin-2,meme,Memecoin,data\0521_memecoin-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+526,troll-2,troll,TROLL,data\0526_troll-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+534,api3,api3,Api3,data\0534_api3_usd_prices_365d.csv,366,ok,
+527,osmosis,osmo,Osmosis,data\0527_osmosis_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+535,request-network,req,Request,data\0535_request-network_usd_prices_365d.csv,366,ok,
+528,helder,hldr,Helder,data\0528_helder_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+536,babylon,baby,Babylon,data\0536_babylon_usd_prices_365d.csv,201,ok,
+529,altlayer,alt,AltLayer,data\0529_altlayer_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+537,band-protocol,band,Band,data\0537_band-protocol_usd_prices_365d.csv,366,ok,
+530,ridges-ai,sn62,Ridges AI,data\0530_ridges-ai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+538,orca,orca,Orca,data\0538_orca_usd_prices_365d.csv,366,ok,
+531,nano,xno,Nano,data\0531_nano_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+532,gohome,gohome,GOHOME,data\0532_gohome_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+533,bridged-wrapped-steth-gnosis,wsteth,Bridged Wrapped stETH (Gnosis),data\0533_bridged-wrapped-steth-gnosis_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+539,orderly-network,order,Orderly,data\0539_orderly-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+547,pundi-x-2,pundix,Pundi X,data\0547_pundi-x-2_usd_prices_365d.csv,366,ok,
+540,temple,temple,TempleDAO,data\0540_temple_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+548,bridged-usd-coin-linea,usdc,Linea Bridged USDC (Linea),data\0548_bridged-usd-coin-linea_usd_prices_365d.csv,366,ok,
+541,solo-coin,solo,Sologenic,data\0541_solo-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+549,apro,at,Apro,data\0549_apro_usd_prices_365d.csv,4,ok,
+542,l2-standard-bridged-weth-optimism,weth,L2 Standard Bridged WETH (Optimism),data\0542_l2-standard-bridged-weth-optimism_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+543,mbg-by-multibank-group,mbg,MBG By Multibank Group,data\0543_mbg-by-multibank-group_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+544,swop-2,swop,Swop,data\0544_swop-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+545,novem-pro,nvm,Novem Pro,data\0545_novem-pro_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+546,vaneck-treasury-fund,vbill,VanEck Treasury Fund,data\0546_vaneck-treasury-fund_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+550,stepn,gmt,GMT,data\0550_stepn_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+558,fulcrom,ful,Fulcrom,data\0558_fulcrom_usd_prices_365d.csv,366,ok,
+551,reservoir-rusd,rusd,Reservoir rUSD,data\0551_reservoir-rusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+559,amnis-aptos,amapt,Amnis Aptos,data\0559_amnis-aptos_usd_prices_365d.csv,366,ok,
+552,yield-guild-games,ygg,Yield Guild Games,data\0552_yield-guild-games_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+560,purr-2,purr,Purr,data\0560_purr-2_usd_prices_365d.csv,366,ok,
+553,mnee-usd-stablecoin,mnee,MNEE USD Stablecoin,data\0553_mnee-usd-stablecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+561,nillion,nil,Nillion,data\0561_nillion_usd_prices_365d.csv,218,ok,
+554,cronos-bridged-usdt-cronos,usdt,Cronos Bridged USDT (Cronos),data\0554_cronos-bridged-usdt-cronos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+562,paparazzi-token,paparazzi,Paparazzi Token,data\0562_paparazzi-token_usd_prices_365d.csv,148,ok,
+555,mask-network,mask,Mask Network,data\0555_mask-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+556,loopring,lrc,Loopring,data\0556_loopring_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+557,ontology,ont,Ontology,data\0557_ontology_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+563,pay-coin,pci,Paycoin,data\0563_pay-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+571,restaked-swell-eth,rsweth,Restaked Swell ETH,data\0571_restaked-swell-eth_usd_prices_365d.csv,366,ok,
+564,enjincoin,enj,Enjin Coin,data\0564_enjincoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+572,neiro-3,neiro,Neiro,data\0572_neiro-3_usd_prices_365d.csv,366,ok,
+565,lagrange,la,Lagrange,data\0565_lagrange_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+573,susda,susda,sUSDa,data\0573_susda_usd_prices_365d.csv,277,ok,
+566,wilder-world,wild,Wilder World,data\0566_wilder-world_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+574,moonwell-artemis,well,Moonwell,data\0574_moonwell-artemis_usd_prices_365d.csv,366,ok,
+567,openledger-2,open,OpenLedger,data\0567_openledger-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+575,waves,waves,Waves,data\0575_waves_usd_prices_365d.csv,366,ok,
+568,bsquared-network,b2,BSquared Network,data\0568_bsquared-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+569,pumpbtc,pumpbtc,pumpBTC,data\0569_pumpbtc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+570,bitdca,bdca,BitDCA,data\0570_bitdca_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+576,somnia,somi,Somnia,data\0576_somnia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+584,melania-meme,melania,Melania Meme,data\0584_melania-meme_usd_prices_365d.csv,282,ok,
+577,notcoin,not,Notcoin,data\0577_notcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+585,aixbt,aixbt,aixbt,data\0585_aixbt_usd_prices_365d.csv,343,ok,
+578,coti,coti,COTI,data\0578_coti_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+586,staked-usd1,susd1+,staked USD1+,data\0586_staked-usd1_usd_prices_365d.csv,75,ok,
+579,vana,vana,Vana,data\0579_vana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+587,woo-network,woo,WOO,data\0587_woo-network_usd_prices_365d.csv,366,ok,
+580,onfa,oft,ONFA,data\0580_onfa_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+581,venus,xvs,Venus,data\0581_venus_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+582,swipe,sxp,Solar,data\0582_swipe_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+583,aura-on-sol,aura,aura,data\0583_aura-on-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+588,nexpace,nxpc,Nexpace,data\0588_nexpace_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+596,definitive,edge,Definitive,data\0596_definitive_usd_prices_365d.csv,209,ok,
+589,ventuals-vhype,vhype,Ventuals vHYPE,data\0589_ventuals-vhype_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+597,ai16z,ai16z,ai16z,data\0597_ai16z_usd_prices_365d.csv,366,ok,
+590,io,io,io.net,data\0590_io_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+598,degen-base,degen,Degen,data\0598_degen-base_usd_prices_365d.csv,366,ok,
+591,jelly-my-jelly,jellyjelly,Jelly-My-Jelly,data\0591_jelly-my-jelly_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+599,puff-the-dragon,puff,Puff The Dragon,data\0599_puff-the-dragon_usd_prices_365d.csv,366,ok,
+592,staked-hype,sthype,Staked HYPE,data\0592_staked-hype_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+600,book-of-meme,bome,BOOK OF MEME,data\0600_book-of-meme_usd_prices_365d.csv,366,ok,
+593,deso,deso,Decentralized Social,data\0593_deso_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+594,clearpool,cpool,Clearpool,data\0594_clearpool_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+595,ben-pasternak,launchcoin,Launch Coin on Believe,data\0595_ben-pasternak_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+601,rocket-pool,rpl,Rocket Pool,data\0601_rocket-pool_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+609,punkstrategy,pnkstr,PunkStrategy,data\0609_punkstrategy_usd_prices_365d.csv,43,ok,
+602,societe-generale-forge-eurcv,eurcv,EUR CoinVertible,data\0602_societe-generale-forge-eurcv_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+610,sui-bridged-ether-sui,sbeth,Sui Bridged Ether (Sui),data\0610_sui-bridged-ether-sui_usd_prices_365d.csv,245,ok,
+603,gama-token,gama,Gama Token,data\0603_gama-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+611,spark-2,spk,Spark,data\0611_spark-2_usd_prices_365d.csv,133,ok,
+604,daku-v2,daku,Daku V2,data\0604_daku-v2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+605,bim-2,bim,BIM,data\0605_bim-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+606,bless-2,bless,Bless,data\0606_bless-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+607,felix-feusd,feusd,Felix feUSD,data\0607_felix-feusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+608,quantixai,qai,QuantixAI,data\0608_quantixai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+612,blast,blast,Blast,data\0612_blast_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+620,wiki-cat,wkc,Wiki Cat,data\0620_wiki-cat_usd_prices_365d.csv,366,ok,
+613,magic-eden,me,Magic Eden,data\0613_magic-eden_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+621,bora,bora,BORA,data\0621_bora_usd_prices_365d.csv,366,ok,
+614,lista,lista,Lista DAO,data\0614_lista_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+622,tellor,trb,Tellor Tributes,data\0622_tellor_usd_prices_365d.csv,366,ok,
+615,cash-4,cash,CASH,data\0615_cash-4_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+623,bedrock-btc,brbtc,Bedrock BTC,data\0623_bedrock-btc_usd_prices_365d.csv,247,ok,
+616,ronin-bridged-weth-ronin,weth,Ronin Bridged WETH (Ronin),data\0616_ronin-bridged-weth-ronin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+624,b3,b3,B3 (Base),data\0624_b3_usd_prices_365d.csv,260,ok,
+617,usdx,usdx,USDX,data\0617_usdx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+618,kelp-gain,ageth,Kelp Gain,data\0618_kelp-gain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+619,status,snt,Status,data\0619_status_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+625,stronghold-token,shx,Stronghold,data\0625_stronghold-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+633,terra-luna-2,luna,Terra,data\0633_terra-luna-2_usd_prices_365d.csv,366,ok,
+626,venice-token,vvv,Venice Token,data\0626_venice-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+634,resupply-usd,reusd,Resupply USD,data\0634_resupply-usd_usd_prices_365d.csv,204,ok,
+627,byusd,byusd,BYUSD,data\0627_byusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+635,hive,hive,Hive,data\0635_hive_usd_prices_365d.csv,366,ok,
+628,gigadot,gdot,GIGADOT,data\0628_gigadot_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+636,nomina,nom,Nomina,data\0636_nomina_usd_prices_365d.csv,27,ok,
+629,mira-3,mira,Mira,data\0629_mira-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+637,solv-protocol-solvbtc-jupiter,solvbtc.jup,Solv Protocol SolvBTC Jupiter,data\0637_solv-protocol-solvbtc-jupiter_usd_prices_365d.csv,215,ok,
+630,balancer,bal,Balancer,data\0630_balancer_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+631,evaa-protocol,evaa,EVAA Protocol,data\0631_evaa-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+632,iostoken,iost,IOST,data\0632_iostoken_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+638,portal-to-bitcoin,ptb,Portal to Bitcoin,data\0638_portal-to-bitcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+646,sanctum-2,cloud,Cloud,data\0646_sanctum-2_usd_prices_365d.csv,366,ok,
+639,metis-token,metis,Metis,data\0639_metis-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+647,elixir-staked-deusd,sdeusd,Elixir Staked deUSD,data\0647_elixir-staked-deusd_usd_prices_365d.csv,315,ok,
+640,usd-coin-ethereum-bridged,usdc.e,Arbitrum Bridged USDC (Arbitrum),data\0640_usd-coin-ethereum-bridged_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+648,swftcoin,swftc,SWFTCOIN,data\0648_swftcoin_usd_prices_365d.csv,366,ok,
+641,ardor,ardr,Ardor,data\0641_ardor_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+649,staked-frax,sfrax,Staked FRAX,data\0649_staked-frax_usd_prices_365d.csv,320,ok,
+642,bancor,bnt,Bancor Network,data\0642_bancor_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+650,echelon-prime,prime,Echelon Prime,data\0650_echelon-prime_usd_prices_365d.csv,366,ok,
+643,coca,coca,COCA,data\0643_coca_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+644,harrypotterobamasonic10in,bitcoin,HarryPotterObamaSonic10Inu (ETH),data\0644_harrypotterobamasonic10in_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+645,lorenzo-wrapped-bitcoin,enzobtc,Lorenzo Wrapped Bitcoin,data\0645_lorenzo-wrapped-bitcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+651,big-time,bigtime,Big Time,data\0651_big-time_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+659,biconomy,bico,Biconomy,data\0659_biconomy_usd_prices_365d.csv,366,ok,
+652,comedian,ban,Comedian,data\0652_comedian_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+660,tokenlon,lon,Tokenlon,data\0660_tokenlon_usd_prices_365d.csv,366,ok,
+653,stratis,strax,Xertra,data\0653_stratis_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+661,ika,ika,Ika,data\0661_ika_usd_prices_365d.csv,91,ok,
+654,constitutiondao,people,ConstitutionDAO,data\0654_constitutiondao_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+662,iexec-rlc,rlc,iExec RLC,data\0662_iexec-rlc_usd_prices_365d.csv,366,ok,
+655,alchemy-pay,ach,Alchemy Pay,data\0655_alchemy-pay_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+663,siren-2,siren,Siren,data\0663_siren-2_usd_prices_365d.csv,251,ok,
+656,ark,ark,ARK,data\0656_ark_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+657,gigachad-2,giga,Gigachad,data\0657_gigachad-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+658,home,home,HOME,data\0658_home_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+664,power-ledger,powr,Powerledger,data\0664_power-ledger_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+672,matrixdock-gold,xaum,Matrixdock Gold,data\0672_matrixdock-gold_usd_prices_365d.csv,332,ok,
+665,celium,sn51,Celium,data\0665_celium_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+673,orbs,orbs,Orbs,data\0673_orbs_usd_prices_365d.csv,366,ok,
+666,straitsx-xusd,xusd,StraitsX XUSD,data\0666_straitsx-xusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+674,safecoin,safe,SAFEbit,data\0674_safecoin_usd_prices_365d.csv,103,ok,
+667,bankercoin-2,bnkr,BankrCoin,data\0667_bankercoin-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+675,marinade,mnde,Marinade,data\0675_marinade_usd_prices_365d.csv,366,ok,
+668,babygirl,babygirl,Babygirl,data\0668_babygirl_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+669,nkyc-token,nkyc,NKYC Token,data\0669_nkyc-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+670,osaka-protocol,osak,Osaka Protocol,data\0670_osaka-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+671,chromaway,chr,Chromia,data\0671_chromaway_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+676,solayer-staked-sol,ssol,Solayer Staked SOL,data\0676_solayer-staked-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+684,verasity,vra,Verasity,data\0684_verasity_usd_prices_365d.csv,366,ok,
+677,solayer,layer,Solayer,data\0677_solayer_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+685,paxos-standard,usdp,Pax Dollar,data\0685_paxos-standard_usd_prices_365d.csv,366,ok,
+678,delysium,agi,Delysium,data\0678_delysium_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+686,constellation-labs,dag,Constellation,data\0686_constellation-labs_usd_prices_365d.csv,366,ok,
+679,orcib,palmo,ORCIB,data\0679_orcib_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+687,alchemist-ai,alch,Alchemist AI,data\0687_alchemist-ai_usd_prices_365d.csv,331,ok,
+680,aevo-exchange,aevo,Aevo,data\0680_aevo-exchange_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+688,the-grays-currency,ptgc,The Grays Currency,data\0688_the-grays-currency_usd_prices_365d.csv,366,ok,
+681,doodles,dood,Doodles,data\0681_doodles_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+682,ocean-protocol,ocean,Ocean Protocol,data\0682_ocean-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+683,bonfida,fida,Bonfida,data\0683_bonfida_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+689,zedxion,zedxion,Zedxion,data\0689_zedxion_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+697,spell-token,spell,Spell,data\0697_spell-token_usd_prices_365d.csv,366,ok,
+690,mass-vehicle-ledger,mvl,MVL,data\0690_mass-vehicle-ledger_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+698,cookie,cookie,Cookie DAO,data\0698_cookie_usd_prices_365d.csv,366,ok,
+691,whiteheart,white,Whiteheart,data\0691_whiteheart_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+699,coinshift-usdl-morpho-vault,csusdl,Coinshift USDL Morpho Vault,data\0699_coinshift-usdl-morpho-vault_usd_prices_365d.csv,208,ok,
+692,mezo-wrapped-btc,btc,Mezo Wrapped BTC,data\0692_mezo-wrapped-btc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+693,mythos,myth,Mythos,data\0693_mythos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+694,socean-staked-sol,inf,Sanctum Infinity,data\0694_socean-staked-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+695,georgeplaysclashroyale,clash,GeorgePlaysClashRoyale,data\0695_georgeplaysclashroyale_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+696,caldera,era,Caldera,data\0696_caldera_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+700,coreum,coreum,Coreum,data\0700_coreum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+708,geodnet,geod,Geodnet,data\0708_geodnet_usd_prices_365d.csv,366,ok,
+701,ergo,erg,Ergo,data\0701_ergo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+709,cronos-bridged-wbtc-cronos,wbtc,Cronos Bridged WBTC (Cronos),data\0709_cronos-bridged-wbtc-cronos_usd_prices_365d.csv,366,ok,
+702,hemi,hemi,Hemi,data\0702_hemi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+710,dia-data,dia,DIA,data\0710_dia-data_usd_prices_365d.csv,366,ok,
+703,honey-3,honey,Honey,data\0703_honey-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+711,btu-protocol,btu,BTU Protocol,data\0711_btu-protocol_usd_prices_365d.csv,239,ok,
+704,holoworld,holo,Holoworld,data\0704_holoworld_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+712,freysa-ai,fai,Freysa AI,data\0712_freysa-ai_usd_prices_365d.csv,331,ok,
+705,og-fan-token,og,OG Fan Token,data\0705_og-fan-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+706,wrapped-aave-plasma-usdt0,waplausdt0,Wrapped Aave Plasma USDT0,data\0706_wrapped-aave-plasma-usdt0_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+707,auki-labs,auki,Auki,data\0707_auki-labs_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+713,kgen,kgen,KGeN,data\0713_kgen_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+721,sign-global,sign,Sign,data\0721_sign-global_usd_prices_365d.csv,183,ok,
+714,chex-token,chex,Chintai,data\0714_chex-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+722,hivemapper,honey,Hivemapper,data\0722_hivemapper_usd_prices_365d.csv,366,ok,
+715,goatseus-maximus,goat,Goatseus Maximus,data\0715_goatseus-maximus_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+723,banana-gun,banana,Banana Gun,data\0723_banana-gun_usd_prices_365d.csv,366,ok,
+716,audius,audio,Audius,data\0716_audius_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+724,chain-key-bitcoin,ckbtc,Chain-key Bitcoin,data\0724_chain-key-bitcoin_usd_prices_365d.csv,366,ok,
+717,sai,sai,Sai,data\0717_sai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+725,arcblock,abt,Arcblock,data\0725_arcblock_usd_prices_365d.csv,366,ok,
+718,sophon,soph,Sophon,data\0718_sophon_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+719,everipedia,iq,IQ,data\0719_everipedia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+720,synfutures,f,SynFutures,data\0720_synfutures_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+726,vndc,vndc,VNDC,data\0726_vndc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+734,boundless,zkc,Boundless,data\0734_boundless_usd_prices_365d.csv,43,ok,
+727,bridged-tether-opbnb,usdt,Bridged Tether (opBNB),data\0727_bridged-tether-opbnb_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+735,milk-alliance,mlk,MiL.k,data\0735_milk-alliance_usd_prices_365d.csv,366,ok,
+728,dovu-2,dovu,DOVU,data\0728_dovu-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+736,cyberconnect,cyber,CYBER,data\0736_cyberconnect_usd_prices_365d.csv,366,ok,
+729,magic-internet-money,mim,Magic Internet Money (Ethereum),data\0729_magic-internet-money_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+737,songbird,sgb,Songbird,data\0737_songbird_usd_prices_365d.csv,366,ok,
+730,targon,sn4,Targon,data\0730_targon_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+731,anime,anime,Animecoin,data\0731_anime_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+732,binance-usd,busd,BUSD,data\0732_binance-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+733,stbl,stbl,STBL,data\0733_stbl_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+738,secret,scrt,Secret,data\0738_secret_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+746,zerobase,zbt,ZEROBASE,data\0746_zerobase_usd_prices_365d.csv,11,ok,
+739,reactive-network,react,Reactive Network,data\0739_reactive-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+747,yield-basis,yb,Yield Basis,data\0747_yield-basis_usd_prices_365d.csv,13,ok,
+740,cjournal-2,cjl,CJournal,data\0740_cjournal-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+748,kyber-network-crystal,knc,Kyber Network Crystal,data\0748_kyber-network-crystal_usd_prices_365d.csv,366,ok,
+741,escoin-token,elg,Escoin,data\0741_escoin-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+749,auction,auction,Bounce,data\0749_auction_usd_prices_365d.csv,366,ok,
+742,manta-network,manta,Manta Network,data\0742_manta-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+750,zentry,zent,Zentry,data\0750_zentry_usd_prices_365d.csv,366,ok,
+743,sats-ordinals,sats,SATS (Ordinals),data\0743_sats-ordinals_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+744,g-token,g,Gravity (by Galxe),data\0744_g-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+745,bouncebit,bb,BounceBit,data\0745_bouncebit_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+751,project-galaxy,gal,GAL (migrated to Gravity - G),data\0751_project-galaxy_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+759,ong,ong,Ontology Gas,data\0759_ong_usd_prices_365d.csv,366,ok,
+752,liquity,lqty,Liquity,data\0752_liquity_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+760,tokamak-network,ton,Tokamak Network,data\0760_tokamak-network_usd_prices_365d.csv,366,ok,
+753,pha,pha,PHALA,data\0753_pha_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+761,hyperbeat-lst-vault,lsthype,Hyperbeat LST Vault,data\0761_hyperbeat-lst-vault_usd_prices_365d.csv,6,ok,
+754,dkargo,dka,dKargo,data\0754_dkargo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+755,yzy,yzy,YZY,data\0755_yzy_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+756,bertram-the-pomeranian,bert,Bertram The Pomeranian,data\0756_bertram-the-pomeranian_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+757,flock-2,flock,FLOCK,data\0757_flock-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+758,chaingpt,cgpt,ChainGPT,data\0758_chaingpt_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+762,taiko,taiko,Taiko,data\0762_taiko_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+770,tornado-cash,torn,Tornado Cash,data\0770_tornado-cash_usd_prices_365d.csv,366,ok,
+763,metamask-usd,musd,MetaMask USD,data\0763_metamask-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+771,zelcash,flux,Flux,data\0771_zelcash_usd_prices_365d.csv,366,ok,
+764,okzoo,aiot,OKZOO,data\0764_okzoo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+772,marlin,pond,Marlin,data\0772_marlin_usd_prices_365d.csv,366,ok,
+765,changenow,now,ChangeNOW,data\0765_changenow_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+773,coinbase-wrapped-xrp,cbxrp,Coinbase Wrapped XRP,data\0773_coinbase-wrapped-xrp_usd_prices_365d.csv,145,ok,
+766,civic,cvc,Civic,data\0766_civic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+774,steem,steem,Steem,data\0774_steem_usd_prices_365d.csv,366,ok,
+767,steakhouse-eth-morpho-vault,steaketh,Steakhouse ETH Morpho Vault,data\0767_steakhouse-eth-morpho-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+768,hex-trust-usdx,usdx,Hex Trust USD,data\0768_hex-trust-usdx_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+769,energy-web-token,ewt,Energy Web,data\0769_energy-web-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+775,certik,ctk,Shentu,data\0775_certik_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+783,universal-eth,unieth,Universal ETH,data\0783_universal-eth_usd_prices_365d.csv,366,ok,
+776,sygnum-fiusd-liquidity-fund,fiusd,Sygnum FIUSD Liquidity Fund,data\0776_sygnum-fiusd-liquidity-fund_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+784,usd,usd+,Overnight.fi USD+,data\0784_usd_usd_prices_365d.csv,366,ok,
+777,space-id,id,SPACE ID,data\0777_space-id_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+785,storx,srx,StorX,data\0785_storx_usd_prices_365d.csv,366,ok,
+778,veraone,vro,VeraOne,data\0778_veraone_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+786,tagger,tag,TAGGER,data\0786_tagger_usd_prices_365d.csv,301,ok,
+779,burnedfi,burn,BurnedFi,data\0779_burnedfi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+787,joe,joe,JOE,data\0787_joe_usd_prices_365d.csv,366,ok,
+780,liquid-hype-yield,liquidhype,Liquid HYPE Yield,data\0780_liquid-hype-yield_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+781,rif-token,rif,Rootstock Infrastructure Framework,data\0781_rif-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+782,rujira,ruji,Rujira,data\0782_rujira_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+788,mountain-protocol-usdm,usdm,Mountain Protocol USD,data\0788_mountain-protocol-usdm_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+796,huma-finance,huma,Huma Finance,data\0796_huma-finance_usd_prices_365d.csv,155,ok,
+789,liquity-bold-2,bold,BOLD,data\0789_liquity-bold-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+797,wrapped-xrp,wxrp,Wrapped XRP,data\0797_wrapped-xrp_usd_prices_365d.csv,366,ok,
+790,carv,carv,CARV,data\0790_carv_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+798,blockv,vee,BLOCKv,data\0798_blockv_usd_prices_365d.csv,366,ok,
+791,cartesi,ctsi,Cartesi,data\0791_cartesi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+799,wax,waxp,WAX,data\0799_wax_usd_prices_365d.csv,366,ok,
+792,wrapped-nxm,wnxm,Wrapped NXM,data\0792_wrapped-nxm_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+793,vine,vine,Vine,data\0793_vine_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+794,gamebuild,game,GameBuild,data\0794_gamebuild_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+795,r0ar-token,1r0r,R0AR Token,data\0795_r0ar-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+800,noble-dollar-usdn,usdn,Noble Dollar (USDN),data\0800_noble-dollar-usdn_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+808,token-pocket,tpt,TokenPocket Token,data\0808_token-pocket_usd_prices_365d.csv,366,ok,
+801,ekubo-protocol,ekubo,Ekubo Protocol,data\0801_ekubo-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+809,anvil,anvl,Anvil,data\0809_anvil_usd_prices_365d.csv,358,ok,
+802,quack-ai,q,Quack AI,data\0802_quack-ai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+810,renzo,rez,Renzo,data\0810_renzo_usd_prices_365d.csv,366,ok,
+803,gemini-dollar,gusd,Gemini Dollar,data\0803_gemini-dollar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+811,terrausd,ustc,TerraClassicUSD,data\0811_terrausd_usd_prices_365d.csv,366,ok,
+804,vaultbridge-bridged-usdc-katana,vbusdc,VaultBridge Bridged USDC (Katana),data\0804_vaultbridge-bridged-usdc-katana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+812,uranus-4,uranus,Uranus,data\0812_uranus-4_usd_prices_365d.csv,102,ok,
+805,cross-2,cross,Cross,data\0805_cross-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+806,eth0,eth0,Usual ETH,data\0806_eth0_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+807,seth,seth,sETH,data\0807_seth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+813,looped-hype,lhype,Looped Hype,data\0813_looped-hype_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+821,world-assets,inc,WorldAssets,data\0821_world-assets_usd_prices_365d.csv,27,ok,
+814,magic,magic,Treasure,data\0814_magic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+822,yei-finance,clo,Yei Finance,data\0822_yei-finance_usd_prices_365d.csv,14,ok,
+815,liqwid-finance,lq,Liqwid Finance,data\0815_liqwid-finance_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+823,limitless-3,lmts,Limitless,data\0823_limitless-3_usd_prices_365d.csv,6,ok,
+816,across-protocol,acx,Across Protocol,data\0816_across-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+817,pythia,pythia,PYTHIA,data\0817_pythia_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+818,solidus-aitech,aitech,Solidus Ai Tech,data\0818_solidus-aitech_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+819,sonic-svm,sonic,Sonic SVM,data\0819_sonic-svm_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+820,a-hunters-dream,caw,A Hunters Dream,data\0820_a-hunters-dream_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+824,dent,dent,Dent,data\0824_dent_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+832,lisk,lsk,Lisk,data\0832_lisk_usd_prices_365d.csv,366,ok,
+833,look,look,LOOK,data\0833_look_usd_prices_365d.csv,50,ok,
+825,dego-finance,dego,Dego Finance,data\0825_dego-finance_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+834,cetus-protocol,cetus,Cetus Protocol,data\0834_cetus-protocol_usd_prices_365d.csv,366,ok,
+826,qanplatform,qanx,QANplatform,data\0826_qanplatform_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+835,dora-2,dora,DORA,data\0835_dora-2_usd_prices_365d.csv,102,ok,
+827,metal,mtl,Metal DAO,data\0827_metal_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+836,bifrost,bfc,Bifrost,data\0836_bifrost_usd_prices_365d.csv,366,ok,
+828,darkstar,darkstar,DarkStar,data\0828_darkstar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+829,apollox-2,apx,APX,data\0829_apollox-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+830,smooth-love-potion,slp,Smooth Love Potion,data\0830_smooth-love-potion_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+831,researchcoin,rsc,ResearchCoin,data\0831_researchcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+837,beets-staked-sonic,sts,Beets Staked Sonic,data\0837_beets-staked-sonic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+845,dymension,dym,Dymension,data\0845_dymension_usd_prices_365d.csv,366,ok,
+838,babyboomtoken,bbt,BabyBoomToken,data\0838_babyboomtoken_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+846,metronome-synth-eth,mseth,Metronome Synth ETH,data\0846_metronome-synth-eth_usd_prices_365d.csv,100,ok,
+839,nusd,susd,Synthetix sUSD,data\0839_nusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+847,acet-token,act,Acet,data\0847_acet-token_usd_prices_365d.csv,366,ok,
+840,ecomi,omi,ECOMI,data\0840_ecomi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+848,binance-peg-zcash-token,zec,Binance-Peg ZEC,data\0848_binance-peg-zcash-token_usd_prices_365d.csv,13,ok,
+841,dogelon-mars,elon,Dogelon Mars,data\0841_dogelon-mars_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+849,overtake,take,OVERTAKE,data\0849_overtake_usd_prices_365d.csv,64,ok,
+842,ondo-u-s-dollar-token,usdon,Ondo U.S. Dollar Token,data\0842_ondo-u-s-dollar-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+843,avalanche-old-bridged-wbtc-avalanche,wbtc.e,Avalanche Bridged WBTC (Avalanche),data\0843_avalanche-old-bridged-wbtc-avalanche_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+844,huobi-token,ht,Huobi,data\0844_huobi-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+850,bucket-protocol-buck-stablecoin,buck,Bucket Protocol BUCK Stablecoin,data\0850_bucket-protocol-buck-stablecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+858,hyperlane,hyper,Hyperlane,data\0858_hyperlane_usd_prices_365d.csv,189,ok,
+851,yield-optimizer-eth,yoeth,Yield Optimizer ETH,data\0851_yield-optimizer-eth_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+859,kled-ai,kled,Kled AI,data\0859_kled-ai_usd_prices_365d.csv,158,ok,
+852,hippo-protocol,hp,Hippo Protocol,data\0852_hippo-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+860,torch-of-liberty,liberty,Torch of Liberty,data\0860_torch-of-liberty_usd_prices_365d.csv,91,ok,
+853,metya,met,MetYa,data\0853_metya_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+861,hyperbeat-ultra-hype,hbhype,Hyperbeat Ultra HYPE,data\0861_hyperbeat-ultra-hype_usd_prices_365d.csv,112,ok,
+854,bridged-tether-linea,usdt,Bridged Tether (Linea),data\0854_bridged-tether-linea_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+855,moonbeam,glmr,Moonbeam,data\0855_moonbeam_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+856,mango-network,mgo,Mango Network,data\0856_mango-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+857,austin-capitals,aux,Austin Capitals,data\0857_austin-capitals_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+862,electroneum,etn,Electroneum,data\0862_electroneum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+870,iagon,iag,Iagon,data\0870_iagon_usd_prices_365d.csv,366,ok,
+863,bit2me,b2m,Bit2Me,data\0863_bit2me_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+871,gains-network,gns,Gains Network,data\0871_gains-network_usd_prices_365d.csv,366,ok,
+864,moonwell-flagship-usdc-morpho-vault,mwusdc,Moonwell Flagship USDC (Morpho Vault),data\0864_moonwell-flagship-usdc-morpho-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+872,wazirx,wrx,WazirX,data\0872_wazirx_usd_prices_365d.csv,366,ok,
+865,ai-analysis-token,aiat,AI Analysis Token,data\0865_ai-analysis-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+873,bridged-wrapped-bitcoin-starkgate,wbtc,Bridged Wrapped Bitcoin (StarkGate),data\0873_bridged-wrapped-bitcoin-starkgate_usd_prices_365d.csv,366,ok,
+866,cobak-token,cbk,Cobak,data\0866_cobak-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+874,savings-crvusd,scrvusd,Savings crvUSD,data\0874_savings-crvusd_usd_prices_365d.csv,344,ok,
+867,botxcoin,botx,BOTXCOIN,data\0867_botxcoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+868,binance-peg-dai,dai,Binance-Peg DAI,data\0868_binance-peg-dai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+869,xtcom-token,xt,XT.com,data\0869_xtcom-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+875,nobody-sausage,nobody,Nobody Sausage,data\0875_nobody-sausage_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+883,advertise-coin,adco,Advertise Coin,data\0883_advertise-coin_usd_prices_365d.csv,364,ok,
+876,wink,win,WINkLink,data\0876_wink_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+884,benqi,qi,BENQI,data\0884_benqi_usd_prices_365d.csv,366,ok,
+877,crepe-2,crepe,CREPE,data\0877_crepe-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+885,pinksale,pinksale,PinkSale,data\0885_pinksale_usd_prices_365d.csv,265,ok,
+878,binance-peg-avalanche,avax,Binance-Peg Avalanche,data\0878_binance-peg-avalanche_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+879,wmatic,wpol,Wrapped POL,data\0879_wmatic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+880,propy,pro,Propy,data\0880_propy_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+881,unipoly,unp,Unipoly,data\0881_unipoly_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+882,kernel-2,kernel,KernelDAO,data\0882_kernel-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+886,dialectic-usd-vault,dusd,Dialectic USD Vault,data\0886_dialectic-usd-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+894,victoria-vr,vr,Victoria VR,data\0894_victoria-vr_usd_prices_365d.csv,366,ok,
+887,worthless,worthless,Worthless,data\0887_worthless_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+895,bas,bas,BNB Attestation Service,data\0895_bas_usd_prices_365d.csv,70,ok,
+888,c8ntinuum,ctm,c8ntinuum,data\0888_c8ntinuum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+896,alethea-artificial-liquid-intelligence-token,ali,Artificial Liquid Intelligence,data\0896_alethea-artificial-liquid-intelligence-token_usd_prices_365d.csv,366,ok,
+889,ket,ket,Ket,data\0889_ket_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+897,islamic-coin,islm,Islamic Coin,data\0897_islamic-coin_usd_prices_365d.csv,366,ok,
+890,usd-coin-avalanche-bridged-usdc-e,usdc.e,Avalanche Bridged USDC (Avalanche),data\0890_usd-coin-avalanche-bridged-usdc-e_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+898,hydradx,hdx,Hydration,data\0898_hydradx_usd_prices_365d.csv,366,ok,
+891,medibloc,med,Medibloc,data\0891_medibloc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+892,akedo,ake,Akedo,data\0892_akedo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+893,ssv-network,ssv,SSV Network,data\0893_ssv-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+899,enso,enso,Enso,data\0899_enso_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+907,xai-blockchain,xai,Xai,data\0907_xai-blockchain_usd_prices_365d.csv,366,ok,
+900,quark-chain,qkc,QuarkChain,data\0900_quark-chain_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+908,bitcoin-on-katana,btck,Bitcoin on Katana,data\0908_bitcoin-on-katana_usd_prices_365d.csv,74,ok,
+901,gradients,sn56,Gradients,data\0901_gradients_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+909,baby-shark-universe,bsu,Baby Shark Universe,data\0909_baby-shark-universe_usd_prices_365d.csv,80,ok,
+902,wrapped-fragsol,wfragsol,Wrapped fragSOL,data\0902_wrapped-fragsol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+910,ankreth,ankreth,Ankr Staked ETH,data\0910_ankreth_usd_prices_365d.csv,366,ok,
+903,coin98,c98,Coin98,data\0903_coin98_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+911,zerebro,zerebro,Zerebro,data\0911_zerebro_usd_prices_365d.csv,360,ok,
+904,corn-3,corn,Corn,data\0904_corn-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+905,aegis-yusd,yusd,Aegis YUSD,data\0905_aegis-yusd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+906,stakestone,sto,StakeStone,data\0906_stakestone_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+912,tradoor,tradoor,Tradoor,data\0912_tradoor_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+920,goldfinch,gfi,Goldfinch,data\0920_goldfinch_usd_prices_365d.csv,366,ok,
+913,gearbox,gear,Gearbox,data\0913_gearbox_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+921,proprietary-trading-network,sn8,Proprietary Trading Network,data\0921_proprietary-trading-network_usd_prices_365d.csv,144,ok,
+914,nosana,nos,Nosana,data\0914_nosana_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+922,moonriver,movr,Moonriver,data\0922_moonriver_usd_prices_365d.csv,366,ok,
+915,simon-s-cat,cat,Simon's Cat,data\0915_simon-s-cat_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+923,liquity-usd,lusd,Liquity USD,data\0923_liquity-usd_usd_prices_365d.csv,366,ok,
+916,apertum,aptm,Apertum,data\0916_apertum_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+924,funfair,fun,FUNToken,data\0924_funfair_usd_prices_365d.csv,366,ok,
+917,bluwhale,bluai,Bluwhale,data\0917_bluwhale_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+918,luck-3,luck,Luckify,data\0918_luck-3_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+919,hegic,hegic,Hegic,data\0919_hegic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+925,hunt-token,hunt,Hunt,data\0925_hunt-token_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+933,pocket-network,pokt,Pocket Network,data\0933_pocket-network_usd_prices_365d.csv,366,ok,
+926,nym,nym,Nym,data\0926_nym_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+934,deapcoin,dep,DEAPCOIN,data\0934_deapcoin_usd_prices_365d.csv,366,ok,
+927,ping,ping,Ping,data\0927_ping_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+935,paal-ai,paal,PAAL AI,data\0935_paal-ai_usd_prices_365d.csv,366,ok,
+928,bonk-staked-sol,bonksol,Bonk Staked SOL,data\0928_bonk-staked-sol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+936,fractal-bitcoin,fb,Fractal Bitcoin,data\0936_fractal-bitcoin_usd_prices_365d.csv,366,ok,
+929,lava-network,lava,Lava Network,data\0929_lava-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+937,ponke,ponke,PONKE,data\0937_ponke_usd_prices_365d.csv,366,ok,
+930,helio-protocol-hay,lisusd,Lista USD,data\0930_helio-protocol-hay_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+931,sx-network-2,sx,SX Network,data\0931_sx-network-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+932,unity-2,uty,Unity,data\0932_unity-2_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+938,hosky,hosky,Hosky,data\0938_hosky_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+946,lorenzo-stbtc,stbtc,Lorenzo stBTC,data\0946_lorenzo-stbtc_usd_prices_365d.csv,366,ok,
+939,aergo,aergo,Aergo,data\0939_aergo_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+947,impossible-cloud-network-token,icnt,Impossible Cloud Network Token,data\0947_impossible-cloud-network-token_usd_prices_365d.csv,117,ok,
+940,strikecoin,strx,StrikeX,data\0940_strikecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+948,mantle-bridged-usdc-mantle,usdc,Mantle Bridged USDC (Mantle),data\0948_mantle-bridged-usdc-mantle_usd_prices_365d.csv,366,ok,
+941,adventure-gold,agld,Adventure Gold,data\0941_adventure-gold_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+949,airtor-protocol,anyone,ANyONe Protocol,data\0949_airtor-protocol_usd_prices_365d.csv,366,ok,
+942,dialectic-eth-vault,deth,Dialectic ETH Vault,data\0942_dialectic-eth-vault_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+943,gods-unchained,gods,Gods Unchained,data\0943_gods-unchained_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+944,lorenzo-protocol,bank,Lorenzo Protocol,data\0944_lorenzo-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+945,velodrome-finance,velo,Velodrome Finance,data\0945_velodrome-finance_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+950,zeus-netwok-zbtc,zbtc,Zeus Network zBTC,data\0950_zeus-netwok-zbtc_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+958,adshares,ads,Adshares,data\0958_adshares_usd_prices_365d.csv,366,ok,
+951,global-commercial-business,gcb,Global Commercial Business,data\0951_global-commercial-business_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+959,zircuit,zrc,Zircuit,data\0959_zircuit_usd_prices_365d.csv,337,ok,
+952,monbasecoin,mbc,MonbaseCoin,data\0952_monbasecoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+960,relend-usdc,reusdc,Relend USDC,data\0960_relend-usdc_usd_prices_365d.csv,316,ok,
+953,trufin-staked-matic,trumatic,TruFin Staked MATIC,data\0953_trufin-staked-matic_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+961,celo-dollar,cusd,Celo Dollar,data\0961_celo-dollar_usd_prices_365d.csv,366,ok,
+954,humans-ai,heart,Humans.ai,data\0954_humans-ai_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+962,olaxbt,aio,OlaXBT,data\0962_olaxbt_usd_prices_365d.csv,87,ok,
+955,mori-coin,mori,MORI COIN,data\0955_mori-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+956,ore,ore,Ore,data\0956_ore_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+957,snowbank,sb,Snowbank,data\0957_snowbank_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+963,andy-the-wisguy,andy,ANDY ETH,data\0963_andy-the-wisguy_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+971,bridged-usd-coin-optimism,usdc.e,Standard Bridged USDC.e (Optimism),data\0971_bridged-usd-coin-optimism_usd_prices_365d.csv,366,ok,
+964,aurora-near,aurora,Aurora,data\0964_aurora-near_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+972,saga-2,saga,Saga,data\0972_saga-2_usd_prices_365d.csv,366,ok,
+965,hylo-usd,hyusd,Hylo USD,data\0965_hylo-usd_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+973,unit-00-rei,rei,Rei,data\0973_unit-00-rei_usd_prices_365d.csv,340,ok,
+966,orochi-network,on,Orochi Network,data\0966_orochi-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+967,web-3-dollar,usd3,Web 3 Dollar,data\0967_web-3-dollar_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+968,sceptre-staked-flr,sflr,Sceptre Staked FLR,data\0968_sceptre-staked-flr_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+969,openeden,eden,OpenEden,data\0969_openeden_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+970,uquid-coin,uqc,Uquid Coin,data\0970_uquid-coin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+974,elastos,ela,Elastos,data\0974_elastos_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+982,devve,devve,DevvE,data\0982_devve_usd_prices_365d.csv,366,ok,
+975,dolomite,dolo,Dolomite,data\0975_dolomite_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+983,qkacoin,qka,Qkacoin,data\0983_qkacoin_usd_prices_365d.csv,235,ok,
+976,keep-network,keep,Keep Network,data\0976_keep-network_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+984,incrypt,inc,Incrypt,data\0984_incrypt_usd_prices_365d.csv,159,ok,
+977,newton-protocol,newt,Newton Protocol,data\0977_newton-protocol_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+985,pepeontron,pepeontron,PePeonTron,data\0985_pepeontron_usd_prices_365d.csv,134,ok,
+978,usual,usual,Usual,data\0978_usual_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+986,singularitynet,agix,SingularityNET,data\0986_singularitynet_usd_prices_365d.csv,366,ok,
+979,hakimi,哈基米,哈基米 (Hajimi),data\0979_hakimi_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+980,derive,drv,Derive,data\0980_derive_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+981,bugscoin,bgsc,BugsCoin,data\0981_bugscoin_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+987,aintivirus,ainti,AIntivirus,data\0987_aintivirus_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+995,avalon-2,avl,Avalon,data\0995_avalon-2_usd_prices_365d.csv,258,ok,
+988,hairdao,hair,HairDAO,data\0988_hairdao_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+996,dodo,dodo,DODO,data\0996_dodo_usd_prices_365d.csv,366,ok,
+989,openserv,serv,OpenServ,data\0989_openserv_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+997,chainflip,flip,Chainflip,data\0997_chainflip_usd_prices_365d.csv,366,ok,
+990,ynbnb-max,ynbnbx,ynBNB MAX,data\0990_ynbnb-max_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+998,ready,ready,READY!,data\0998_ready_usd_prices_365d.csv,336,ok,
+991,smardex,sdex,SMARDEX,data\0991_smardex_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+999,celer-network,celr,Celer Network,data\0999_celer-network_usd_prices_365d.csv,366,ok,
+992,radix,xrd,Radix,data\0992_radix_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+993,tcy,tcy,TCY,data\0993_tcy_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+994,apu-s-club,apu,Apu Apustaja,data\0994_apu-s-club_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
+1000,supra,supra,Supra,data\1000_supra_usd_prices_365d.csv,0,error,Failed after retries (likely rate-limited).
