@@ -182,7 +182,7 @@ def train_model(
     lr: float,
     weight_decay: float,
     print_every: int = 50,
-    out_dir: str = "runs"
+    out_dir: str = "mlp_runs"
 ) -> Dict[str, List[float]]:
     optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=weight_decay)
     loss_fn = nn.BCEWithLogitsLoss()
@@ -291,7 +291,7 @@ def build_model(input_dim: int, layers_str: str, dropout: float, activation: str
         layers = [int(x) for x in layers_str.split(",") if x.strip()]
     return MLP(
         input_dim=input_dim,
-        layers=layers if layers else [128, 64, 32],  # sensible default
+        layers=layers if layers else [128, 64],  # sensible default
         dropout=dropout,
         activation=activation,
         batchnorm=bool(batchnorm),
@@ -301,7 +301,7 @@ def build_model(input_dim: int, layers_str: str, dropout: float, activation: str
 def main():
     parser = argparse.ArgumentParser(description="Train/validate/test a configurable MLP on binary trajectories.")
     parser.add_argument("--data-dir",   default="tensor_data", help="Folder with X_*.pt, y_*.pt")
-    parser.add_argument("--out-dir",    default="runs", help="Output folder for model & plots")
+    parser.add_argument("--out-dir",    default="mlp_runs", help="Output folder for model & plots")
     parser.add_argument("--layers",     default="128,64", help="Comma-separated hidden sizes, e.g. '256,128,64'")
     parser.add_argument("--dropout",    type=float, default=0.10, help="Dropout probability (each hidden layer)")
     parser.add_argument("--activation", default="relu", choices=["relu","gelu","tanh","elu","leaky_relu"])

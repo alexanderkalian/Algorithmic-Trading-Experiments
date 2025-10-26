@@ -1,6 +1,6 @@
 {
   "data_dir": "tensor_data",
-  "out_dir": "runs",
+  "out_dir": "mlp_runs",
   "layers": "128,64",
   "dropout": 0.1,
   "activation": "relu",
