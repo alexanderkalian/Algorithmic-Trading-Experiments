@@ -1,0 +1,16 @@
+{
+  "data_dir": "tensor_data",
+  "out_dir": "runs",
+  "layers": "128,64",
+  "dropout": 0.1,
+  "activation": "relu",
+  "batchnorm": 1,
+  "epochs": 100,
+  "batch_size": 128,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "standardize": 1,
+  "seed": 123,
+  "device": "cpu",
+  "print_every": 50
+}
