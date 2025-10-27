@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-rolling_window = 90
+rolling_window = 60
 
 
 filename = 'data/btc-usd-max.csv'
