@@ -1,0 +1,22 @@
+Node features:
+
+- Black/white
+- Piece type
+- x coordinate
+- y coordinate
+- Points value
+
+Edge features:
+
+- Whether the piece is being "looked at" by or is "looking at" the other piece*
+
+* As the edge is mutual, the edge feature must take any one of 4 values: 0, 1, 2, 3
+0 means neither piece is "looking at" the other
+1 means that piece A is looking at piece B, but not vice versa
+2 means that piece B is looking at piece A, but not vice versa
+3 means that both pieces are looking at eachother
+
+piece A is by default the white piece, while piece B is the black piece (for a white/black interaction)
+piece A is by default the higher value piece (with bishops considered as higher), while piece B is the lower value piece (for a same-colour interaction). For pawn-pawn interactions of the same colour, piece A is the pawn closest to the a-file, while piece B is the pawn closest to the h-file.
+
+If a piece is taken, then it ceases to exist in the graph object.
